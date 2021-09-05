@@ -4,7 +4,7 @@ role: Juriste
 domaine: Autre
 missions:
   - start: 2021-02-23
-    end: 2021-09-06
+    end: 2021-11-30
     status: service
     employer: Octo
 startups:
